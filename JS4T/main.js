@@ -5,4 +5,3 @@ function welcome(params) {
 }
 
 welcome();
-
